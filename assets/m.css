@@ -1,6 +1,6 @@
 body 
 {
-	background-color : #f0f7da;
+	background-color : #181b0d;
 	color:#fff;
 }
 
@@ -55,7 +55,7 @@ body
 
 .dash-bootstrap .Select--multi .Select-value {
   border-radius: 0.125rem;
-  color: #eee;
+  color: #fff;
   border-color: rgba(200, 200, 200, 0.25);
   background-color: rgba(55, 55, 55, 0.1);
 }
@@ -79,7 +79,7 @@ body
 }
 
 .dash-bootstrap .Select-placeholder {
-  color: #999;
+  color: #fff;
   font-color: #eee;
   padding-left: 0.75rem;
   padding-right: 0.75rem;
